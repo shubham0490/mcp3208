@@ -2,6 +2,11 @@
 
 //Original Work of node-red-node-pi-mcp3008
 //modified code for my project
+<img src="https://raw.githubusercontent.com/MomsFriendlyRobotCompany/MCP3208/master/docs/pics/chip.png">
+
+## Wiring
+
+<img src="https://raw.githubusercontent.com/fivdi/mcp-spi-adc/master/example/pi-mcp3008-tmp36.png">
 
 node-red-node-pi-mcp3208
 ========================
